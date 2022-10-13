@@ -35,8 +35,8 @@ Challenge:
 
 ### Links
 
-- Repository: Not available yet
-- Live version: Not available yet
+- Repository: [Github](https://github.com/pedrocosta132/react-challenges/tree/main/qr-code-component)
+- Live version: [Netlify](https://pedrocosta132-qr-code.netlify.app/)
 
 ## The process
 

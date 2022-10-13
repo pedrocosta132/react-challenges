@@ -38,8 +38,8 @@ Desired functionalities:
 
 ### Links
 
-- Repository: Not available yet
-- Live version: Not available yet
+- Repository: [Github](https://github.com/pedrocosta132/react-challenges/tree/main/interactive-rating-component)
+- Live version: [Netlify](https://pedrocosta132-interactive-rating.netlify.app/)
 
 ## The process
 
