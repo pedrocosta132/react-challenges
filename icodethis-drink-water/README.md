@@ -34,7 +34,7 @@ Challenge:
 ### Links
 
 - Repository: [Github](https://github.com/pedrocosta132/react-challenges/)
-- Live version: [Netlify](https://netlify.app/)
+- Live version: [Netlify](https://pedrocosta132-drink-water.netlify.app/)
 
 ## The process
 

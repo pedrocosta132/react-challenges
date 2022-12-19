@@ -6,3 +6,7 @@ Interactive Rating Component: [Repository](https://github.com/pedrocosta132/reac
 QR Code Component: [Repository](https://github.com/pedrocosta132/react-challenges/tree/main/qr-code-component) | [Live Demo](https://pedrocosta132-qr-code.netlify.app/)
 
 Product Preview Card: [Repository](https://github.com/pedrocosta132/react-challenges/tree/main/product-preview-card) | [Live Demo](https://pedrocosta132-product-preview-card.netlify.app/)
+
+## ICodeThis
+
+Drink Water: [Repository](https://github.com/pedrocosta132/react-challenges/tree/main/icodethis-drink-water) | [Live Demo](https://pedrocosta132-drink-water.netlify.app/)
