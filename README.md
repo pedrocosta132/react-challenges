@@ -10,3 +10,4 @@ Product Preview Card: [Repository](https://github.com/pedrocosta132/react-challe
 ## ICodeThis
 
 Drink Water: [Repository](https://github.com/pedrocosta132/react-challenges/tree/main/icodethis-drink-water) | [Live Demo](https://pedrocosta132-drink-water.netlify.app/)
+Reminder App: [Repository](https://github.com/pedrocosta132/react-challenges/tree/main/icodethis-reminder-app)
